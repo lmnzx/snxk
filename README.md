@@ -1,1 +1,1 @@
-[![](https://github.com/snxk/snxk/blob/master/dino.gif)](#)
+[![](https://github.com/snxk/snxk/blob/main/dino.gif)](#)
