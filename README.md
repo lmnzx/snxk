@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/snxk?template=classic&isocalendar=1&wakatime=1&stars=1&isocalendar.duration=full-year&stars.limit=4&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=Asia%2FCalcutta)
+###Just trying to have fun
